@@ -1,6 +1,5 @@
-# Welcome to Your New dbt Project!
+# Welcome to dbt Project!
 
-## Getting Started with the Starter Project
 
 To get your dbt project started, run these commands:
 
