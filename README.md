@@ -7,6 +7,8 @@ To get your dbt project started, run these commands:
 ```bash
 dbt run
 dbt test
+```
+
 <p align="center">
   <img src="dbt-dag.png" alt="dbt DAG Visualization" width="100%">
 </p>
