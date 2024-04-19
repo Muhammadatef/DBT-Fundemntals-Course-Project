@@ -1,4 +1,3 @@
-# Welcome to Your New dbt Project!
 
 ## Getting Started with the Starter Project
 
